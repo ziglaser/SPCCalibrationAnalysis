@@ -1,0 +1,7 @@
+(7, 'JAN 08', 2013);['Colorado', 'Texas'];5
+(15, 'JAN 08', 2013);['Indiana', 'Rhode Island', 'Texas', 'Virginia'];40
+(18, 'JAN 09', 2013);['Louisiana'];20
+(4, 'JAN 10', 2013);['Louisiana'];60
+(5, 'JAN 10', 2013);['Louisiana', 'Mississippi'];95
+(15, 'JAN 10', 2013);['Alabama', 'Florida', 'Pennsylvania'];40
+(17, 'JAN 10', 2013);['Arkansas', 'Kentucky', 'Missouri', 'Tennessee'];20
